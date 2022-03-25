@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{124C6452-6F42-4068-BF83-80345D82EE6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotebookSale/Program.cs">
+    <Files>
+      <File FileName="NotebookSale/Program.cs" Line="82" Column="10" />
+      <File FileName="NotebookSale/Product.cs" Line="16" Column="1" />
+      <File FileName="NotebookSale/Notebook.cs" Line="19" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotebookSale" expanded="True">
+            <Node name="NotebookSale" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NotebookSale FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
